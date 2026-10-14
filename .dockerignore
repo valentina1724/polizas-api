@@ -1,0 +1,21 @@
+# Nada de secretos, bases de datos ni entornos locales dentro de la imagen
+.env
+*.db
+*.db-journal
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+.git/
+
+# Lo que no necesita el servicio para correr
+tests/
+plantillas/
+ia_tests_propuesta.py
+contar_consultas.py
+sembrar_datos.py
+verificar_entrega.py
+*.md
+*.csv

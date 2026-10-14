@@ -1,0 +1,4 @@
+# Fin de línea LF en todo el repositorio, también en Windows: el Dockerfile y
+# tests/test_contrato.py (que se compara byte a byte) deben llegar iguales.
+* text=auto eol=lf
+*.pkl binary
