@@ -124,6 +124,15 @@ def test_put_parcial_cambia_solo_lo_enviado_y_queda_guardado(cliente):
     assert guardada == {**creada, "prima": 999_000}
 
 
+@pytest.mark.parametrize("cambio", [{"prima": 0}, {"tipo": "moto"}, {"fecha_fin": "2025-12-31"},
+                                    {"fecha_fin": "2026-01-01"}],
+                         ids=["prima-cero", "tipo-desconocido", "fin-antes-del-inicio", "fin-igual-al-inicio"])
+def test_put_invalido_da_422_y_no_cambia_nada(cliente, cambio):
+    creada = _crear(cliente)
+    assert cliente.put(f"/polizas/{creada['id']}", json=cambio).status_code == 422
+    assert cliente.get(f"/polizas/{creada['id']}").json() == creada
+
+
 def test_declarar_siniestro_da_201_y_queda_en_la_poliza(cliente):
     creada = _crear(cliente)
     r = cliente.post(f"/polizas/{creada['id']}/siniestros", json=SINIESTRO)
