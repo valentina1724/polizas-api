@@ -1,6 +1,6 @@
 # Bitácora de uso de IA
 
-**Grupo:** <número> · **Integrantes:** <nombre 1>
+**Grupo:** <número> · **Integrantes:** Dylan Andrés Fajardo, Valentina Huertas Quesada, Juan Manuel Molina Ortiz
 **Herramientas usadas:** Claude (Claude Code, aplicación de escritorio)
 
 > Las tres secciones son obligatorias. **`## Rechazado` es la que se califica.**
@@ -10,11 +10,11 @@
 
 | # | Parte | Quién | Prompt (resumido si es largo) |
 |---|-------|-------|-------------------------------|
-| 1 | Todas | <nombre 1> | «Verifica este PDF de preguntas y respuestas del taller contra el enunciado publicado y dime qué está bien, qué hay que mejorar y qué está mal» (adjunto: un PDF con respuestas sobre otra copia del repositorio) |
-| 2 | A–E | <nombre 1> | «El taller está en el repositorio del curso; termina de analizarlo, verifica lo anterior, resuélvelo y prepáralo para subirlo a otro repositorio» |
-| 3 | A | <nombre 1> | Dentro de la sesión: levantar `v0-semilla`, reproducir cada defecto con un comando contra `localhost:8000` y copiar la salida literal |
-| 4 | C | <nombre 1> | Dentro de la sesión: contar consultas con `contar_consultas.py` y medir la estrategia alternativa de cada endpoint |
-| 5 | D | <nombre 1> | Dentro de la sesión: demostrar cada defecto de `ia_tests_propuesta.py` con una mutación y barrer otras mutaciones contra la batería corregida |
+| 1 | Todas | Dylan Andrés Fajardo | «Verifica este PDF de preguntas y respuestas del taller contra el enunciado publicado y dime qué está bien, qué hay que mejorar y qué está mal» (adjunto: un PDF con respuestas sobre otra copia del repositorio) |
+| 2 | A–E | Dylan Andrés Fajardo | «El taller está en el repositorio del curso; termina de analizarlo, verifica lo anterior, resuélvelo y prepáralo para subirlo a otro repositorio» |
+| 3 | A | Dylan Andrés Fajardo | Dentro de la sesión: levantar `v0-semilla`, reproducir cada defecto con un comando contra `localhost:8000` y copiar la salida literal |
+| 4 | C | Dylan Andrés Fajardo | Dentro de la sesión: contar consultas con `contar_consultas.py` y medir la estrategia alternativa de cada endpoint |
+| 5 | D | Dylan Andrés Fajardo | Dentro de la sesión: demostrar cada defecto de `ia_tests_propuesta.py` con una mutación y barrer otras mutaciones contra la batería corregida |
 
 ## Aceptado
 

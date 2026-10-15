@@ -10,4 +10,6 @@
 
 | Nombre completo | Correo institucional | Identidades git |
 |-----------------|----------------------|-----------------|
-| <Nombre Apellido> | <usuario@usta.edu.co> | Dylan <andresfajardoch24@gmail.com> |
+| Dylan Andrés Fajardo | dylanfajardo@usantotomas.edu.co | Dylan <andresfajardoch24@gmail.com>; Dylan Andrés Fajardo <dylanfajardo@usantotomas.edu.co> |
+| Valentina Huertas Quesada | valentinahuertasq@usantotomas.edu.co | Valentina Huertas Quesada <valentinahuertasq@usantotomas.edu.co> |
+| Juan Manuel Molina Ortiz | juanmolinao@usantotomas.edu.co | Juan Manuel Molina Ortiz <juanmolinao@usantotomas.edu.co> |
