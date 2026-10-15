@@ -1,6 +1,6 @@
 # Dictamen sobre `ia_tests_propuesta.py` — Parte D
 
-**Grupo:** <número> · **Integrantes:** Dylan Andrés Fajardo, Valentina Huertas Quesada, Juan Manuel Molina Ortiz
+**Integrantes:** Dylan Andrés Fajardo, Valentina Huertas Quesada, Juan Manuel Molina Ortiz
 
 > Todas las mutaciones se aplicaron sobre el servicio **ya corregido** (Parte B), se corrió la
 > batería original (`pytest ia_tests_propuesta.py -q`) y la corregida

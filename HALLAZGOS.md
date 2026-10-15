@@ -1,6 +1,6 @@
 # Hallazgos — Parte A
 
-**Grupo:** <número> · **Integrantes:** Dylan Andrés Fajardo, Valentina Huertas Quesada, Juan Manuel Molina Ortiz
+**Integrantes:** Dylan Andrés Fajardo, Valentina Huertas Quesada, Juan Manuel Molina Ortiz
 
 > Todas las evidencias se tomaron sobre la etiqueta `v0-semilla` (commit `5a5cc5b`) con el
 > servicio levantado con `uvicorn main:app --port 8000` y la `app.db` tal como viene en el

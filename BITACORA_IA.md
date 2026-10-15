@@ -1,6 +1,6 @@
 # Bitácora de uso de IA
 
-**Grupo:** <número> · **Integrantes:** Dylan Andrés Fajardo, Valentina Huertas Quesada, Juan Manuel Molina Ortiz
+**Integrantes:** Dylan Andrés Fajardo, Valentina Huertas Quesada, Juan Manuel Molina Ortiz
 **Herramientas usadas:** Claude (Claude Code, aplicación de escritorio)
 
 > Las tres secciones son obligatorias. **`## Rechazado` es la que se califica.**
